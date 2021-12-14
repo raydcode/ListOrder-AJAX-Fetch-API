@@ -1,4 +1,4 @@
-# JSON handlers AJAX/API:
+# List Order AJAX/API:
 
 
-# demo-link : https://raydcode.github.io/JSON-handler-AJAX-API/
+# demo-link : https://raydcode.github.io/ListOrder-AJAX-Fetch-API/
